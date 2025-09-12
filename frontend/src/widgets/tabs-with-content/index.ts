@@ -1,0 +1,1 @@
+export { TabsWithContent } from "./ui";
